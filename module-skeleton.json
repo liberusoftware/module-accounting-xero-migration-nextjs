@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-xero-migration-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-xero-migration",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-xero-migration-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/xero-migration.md",
+  "presentationPlan": "projects/accounting/nextjs/xero-migration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
